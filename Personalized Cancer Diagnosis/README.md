@@ -14,16 +14,18 @@
   <li>Variation : categorical</li>
   <li>Text : text</li>
 </ul>
-## Categorical features are transformed using 2 technique:
+</br>
+# Categorical features are transformed using 2 technique:
 <ul>
   <li>OneHot Encoding: high dim</li>
   <li>Response coding: low dim</li>
-  <li>Text : text</li>
+
 </ul>
-## Univariate analysis
-Univariate analysis using only gene, only variation, only text</br>
+# Univariate analysis
+Univariate analysis using only gene, only variation, only text
 text was the best among these three.</br>
-## I have tried many models, models are listed bellow:
+
+# I have tried many models, models are listed bellow:
 <ul>
  <li>1. MultinomialNB Naive Bayes </li>
  <li>2. KNN</li>
