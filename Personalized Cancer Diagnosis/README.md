@@ -6,8 +6,9 @@
 
 # Project overview
 ## It is multiclass(9-class) classification problem, cost of misclassification is very high.
-### KPI(Key performance indicator) : Multiclass Log Loss  and Confusion matrix
-##There were 3 features:
+### KPI(Key performance indicator) : Multiclass Log Loss  and Confusion matrix.
+
+## There were 3 features:
 <ul>
   <li>Gene : categorical</li>
   <li>Variation : categorical</li>
@@ -21,7 +22,7 @@
 </ul>
 ## Univariate analysis
 Univariate analysis using only gene, only variation, only text</br>
-text was the best among these 3.
+text was the best among these three.</br>
 ## I have tried many models, models are listed bellow:
 <ul>
  <li>1. MultinomialNB Naive Bayes </li>
