@@ -22,10 +22,11 @@
 
 </ul>
 # Univariate analysis
-Univariate analysis using only gene, only variation, only text
+Univariate analysis using only gene, only variation, only text and 
 text was the best among these three.</br>
 
 # I have tried many models, models are listed bellow:
+
 <ul>
  <li>1. MultinomialNB Naive Bayes </li>
  <li>2. KNN</li>
